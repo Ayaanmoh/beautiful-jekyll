@@ -36,8 +36,8 @@ same time (in one statement).
 
 
 <p align="center">
+   <em>Vectorized version of the function that computes the acceleration on all the particles</em>
   <img src="https://miro.medium.com/max/1024/1*JuuCy0bJya1__ggeG9MWTw.gif"  width=370 height=405>
-  <em>Vectorized version of the function that computes the acceleration on all the particles</em>
 </p>
 
 
