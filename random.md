@@ -15,11 +15,6 @@ Other:
 * Science fiction and courtroom drama are my favorite genres.
 
 
-<p float="left">
-<img src="https://drive.google.com/uc?export=view&id=1HwUpK411M2Cay9ZvXUBjRTYrOfmNI-Ht" alt="drawing" width="200"/>
-<img src="https://drive.google.com/uc?export=view&id=17b-MktAftWTMuZdjLRnAVO-Q5hU5VjNG" alt="drawing" width="200"/>
-</p>
-
 <table>
   <tr>
     <td>Professional</td>
@@ -27,7 +22,7 @@ Other:
      <td>Holiday Mention</td>
   </tr>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1HwUpK411M2Cay9ZvXUBjRTYrOfmNI-Ht" width=270 height=480></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=17b-MktAftWTMuZdjLRnAVO-Q5hU5VjNG" width=270 height=480></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1HwUpK411M2Cay9ZvXUBjRTYrOfmNI-Ht" width=250 height=520></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=17b-MktAftWTMuZdjLRnAVO-Q5hU5VjNG" width=250 height=520></td>
   </tr>
  </table>
