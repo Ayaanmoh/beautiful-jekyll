@@ -16,7 +16,7 @@ Computer Science graduate student at North Carolina State University. I hail fro
   </tr>
  </table>
 
-<td><img src="https://miro.medium.com/max/1024/1*JuuCy0bJya1__ggeG9MWTw.gif" width=270 height=405></td>
+<img src="https://miro.medium.com/max/1024/1*JuuCy0bJya1__ggeG9MWTw.gif" width=270 height=405>
 
 
 ### Skills
