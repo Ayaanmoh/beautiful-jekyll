@@ -34,6 +34,14 @@ Gravitational N-Body Simulation with Vectorization.
 Vectorized code refers to operations that are performed on multiple components of a vector at the
 same time (in one statement).
 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
 * Vectorized version of the function that computes the acceleration on all the particles
 <p align="center">
   <img src="https://miro.medium.com/max/1024/1*JuuCy0bJya1__ggeG9MWTw.gif"  width=370 height=405>
