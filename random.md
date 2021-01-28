@@ -16,8 +16,6 @@ Computer Science graduate student at North Carolina State University. I hail fro
   </tr>
  </table>
 
-<img src="https://miro.medium.com/max/1024/1*JuuCy0bJya1__ggeG9MWTw.gif" width=270 height=405>
-
 
 ### Skills
 
@@ -29,5 +27,14 @@ Computer Science graduate student at North Carolina State University. I hail fro
 * Love to play soccer. An avid fan of football club FC Barcelona.
 * An Astrophile. Happy to stargaze all night and contemplate about the universe.
 * Science fiction and courtroom drama are my favorite genres.
+
+### Code Snippet
+
+Vectorized version of the function that computes the acceleration on all the particles
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1024/1*JuuCy0bJya1__ggeG9MWTw.gif" width=370 height=405>
+</p>
+
 
 
