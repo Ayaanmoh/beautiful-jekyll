@@ -28,7 +28,7 @@ Computer Science graduate student at North Carolina State University. I hail fro
 * An Astrophile. Happy to stargaze all night and contemplate about the universe.
 * Science fiction and courtroom drama are my favorite genres.
 
-### Code Snippet
+### Favorite Code Snippet
 
 Gravitational N-Body Simulation with Vectorization.
 Vectorized code refers to operations that are performed on multiple components of a vector at the
