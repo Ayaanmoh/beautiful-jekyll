@@ -15,4 +15,6 @@ Other:
 * Science fiction and courtroom drama are my favorite genres.
 
 
-![](https://drive.google.com/uc?export=view&id=17b-MktAftWTMuZdjLRnAVO-Q5hU5VjNG | width=100)
+![](https://drive.google.com/uc?export=view&id=17b-MktAftWTMuZdjLRnAVO-Q5hU5VjNG)
+
+<img src="https://drive.google.com/uc?export=view&id=17b-MktAftWTMuZdjLRnAVO-Q5hU5VjNG" alt="drawing" width="200"/>
