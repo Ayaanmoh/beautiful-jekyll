@@ -20,4 +20,14 @@ Other:
 <img src="https://drive.google.com/uc?export=view&id=17b-MktAftWTMuZdjLRnAVO-Q5hU5VjNG" alt="drawing" width="200"/>
 </p>
 
-
+<table>
+  <tr>
+    <td>Professional</td>
+     <td>Casual</td>
+     <td>Holiday Mention</td>
+  </tr>
+  <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=1HwUpK411M2Cay9ZvXUBjRTYrOfmNI-Ht" width=270 height=480></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=17b-MktAftWTMuZdjLRnAVO-Q5hU5VjNG" width=270 height=480></td>
+  </tr>
+ </table>
