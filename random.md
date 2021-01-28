@@ -6,7 +6,7 @@ Computer Science graduate student at North Carolina State University. I hail fro
 ### Skills
 
 * Proficient in Python
-* Experience in developing full stack applications with Javascript.
+* Experience in developing full stack applications with Javascript and MongoDB
 * Dabbled with deploying my applications and configuring pipelines on Microsoft Azure.
 
 Other:
@@ -22,7 +22,8 @@ Other:
      <td>Holiday Mention</td>
   </tr>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1HwUpK411M2Cay9ZvXUBjRTYrOfmNI-Ht" width=270 height=400></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=17b-MktAftWTMuZdjLRnAVO-Q5hU5VjNG" width=270 height=400></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1HwUpK411M2Cay9ZvXUBjRTYrOfmNI-Ht" width=270 height=405></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=17b-MktAftWTMuZdjLRnAVO-Q5hU5VjNG" width=270 height=405></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1bQfNxBupfjmNY3jDrt9sO_kqdzfseBYo" width=270 height=405></td>
   </tr>
  </table>
