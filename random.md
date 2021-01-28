@@ -30,10 +30,13 @@ Computer Science graduate student at North Carolina State University. I hail fro
 
 ### Code Snippet
 
-Vectorized version of the function that computes the acceleration on all the particles
+Gravitational N-Body Simulation with Vectorization.
+Vectorized code refers to operations that are performed on multiple components of a vector at the
+same time (in one statement).
+
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1024/1*JuuCy0bJya1__ggeG9MWTw.gif" width=370 height=405>
+  <img src="https://miro.medium.com/max/1024/1*JuuCy0bJya1__ggeG9MWTw.gif" title="Vectorized version of the function that computes the acceleration on all the particles" width=370 height=405>
 </p>
 
 
