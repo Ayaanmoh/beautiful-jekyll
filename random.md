@@ -22,7 +22,7 @@ Other:
      <td>Holiday Mention</td>
   </tr>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1HwUpK411M2Cay9ZvXUBjRTYrOfmNI-Ht" width=270 height=420></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=17b-MktAftWTMuZdjLRnAVO-Q5hU5VjNG" width=270 height=420></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1HwUpK411M2Cay9ZvXUBjRTYrOfmNI-Ht" width=270 height=400></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=17b-MktAftWTMuZdjLRnAVO-Q5hU5VjNG" width=270 height=400></td>
   </tr>
  </table>
